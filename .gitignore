@@ -1,0 +1,17 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+.project
+.classpath
+.settings
+.springBeans
+.metadata
+rebel.xml
+target
+test-output
+src/main/webapp/temp
